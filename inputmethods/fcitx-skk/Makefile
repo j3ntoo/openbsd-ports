@@ -1,4 +1,4 @@
-COMMENT = My fcitx skk ports
+COMMENT = Japanese SKK input methods for Fcitx
 
 GH_ACCOUNT = fcitx
 GH_PROJECT = fcitx-skk
