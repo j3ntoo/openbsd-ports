@@ -3,6 +3,7 @@ COMMENT = Japanese SKK input methods for Fcitx
 GH_ACCOUNT = fcitx
 GH_PROJECT = fcitx-skk
 GH_TAGNAME = 0.1.4
+REVISION = 0
 
 CATEGORIES = inputmethods
 MAINTAINER = atuow <atuow@xiun.org>
