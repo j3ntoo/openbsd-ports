@@ -1,0 +1,8 @@
+--- CMakeLists.txt.orig	Fri Oct 20 14:03:38 2017
++++ CMakeLists.txt	Wed May  4 21:47:49 2022
+@@ -1,4 +1,4 @@
+-cmake_minimum_required(VERSION 2.8.6)
++cmake_minimum_required(VERSION 2.8.12)
+ project(fcitx-skk)
+ 
+ set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_SOURCE_DIR}/cmake" ${CMAKE_MODULE_PATH})
